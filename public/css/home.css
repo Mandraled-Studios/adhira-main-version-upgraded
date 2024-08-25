@@ -1,0 +1,35 @@
+html, body {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+#popup {
+    padding: 2.5rem 1.5rem;
+}
+
+#popup ul {
+    list-style: none;
+    padding-left: 1rem !important;
+}
+
+.dueDate-list {
+    max-height: 685px;
+}
+
+.whatsNew-block h6, .dueDate-block h6{
+    font-family: 'gilroyMedium' !important;
+}
+
+#popup ul li::before {
+    content: "\2022";  
+    color: #FF9401; 
+    display: inline-block; 
+    width: 1rem; 
+    margin-left: -1rem; 
+}
+
+@media only screen and (min-width: 992px) {
+    #popup {
+        padding: 5rem 3rem;
+    }
+}

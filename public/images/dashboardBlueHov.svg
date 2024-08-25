@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_248" data-name="Group 248" transform="translate(-71 -311)">
+    <g id="Rectangle_250" data-name="Rectangle 250" transform="translate(71 311)" fill="#50a8ff" stroke="#0b37ed" stroke-width="1.5">
+      <rect width="14" height="14" rx="4" stroke="none"/>
+      <rect x="0.75" y="0.75" width="12.5" height="12.5" rx="3.25" fill="none"/>
+    </g>
+    <g id="Rectangle_251" data-name="Rectangle 251" transform="translate(71 326)" fill="#0c38ee" stroke="#0b37ed" stroke-width="1.5">
+      <rect width="14" height="14" rx="4" stroke="none"/>
+      <rect x="0.75" y="0.75" width="12.5" height="12.5" rx="3.25" fill="none"/>
+    </g>
+    <g id="Rectangle_252" data-name="Rectangle 252" transform="translate(86 311)" fill="#0c38ee" stroke="#0b37ed" stroke-width="1.5">
+      <rect width="14" height="14" rx="4" stroke="none"/>
+      <rect x="0.75" y="0.75" width="12.5" height="12.5" rx="3.25" fill="none"/>
+    </g>
+    <g id="Rectangle_253" data-name="Rectangle 253" transform="translate(86 326)" fill="#50a8ff" stroke="#0b37ed" stroke-width="1.5">
+      <rect width="14" height="14" rx="4" stroke="none"/>
+      <rect x="0.75" y="0.75" width="12.5" height="12.5" rx="3.25" fill="none"/>
+    </g>
+  </g>
+</svg>
